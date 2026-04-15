@@ -1,10 +1,10 @@
 {
   "name": "claudy-marketplace",
   "owner": {
-    "name": "Triptyk",
-    "url": "https://github.com/triptyk"
+    "name": "Gilles Bertrand",
+    "url": "https://github.com/gilles-bertrand"
   },
-  "description": "Marketplace officiel des plugins Claude Code maintenus par Triptyk",
+  "description": "Marketplace des plugins Claude Code maintenus par Gilles Bertrand",
   "plugins": [
     {
       "name": "claudy",
@@ -12,7 +12,7 @@
       "version": "0.1.0",
       "source": {
         "source": "github",
-        "repo": "triptyk/claudy-plugin",
+        "repo": "gilles-bertrand/claudy-plugin",
         "ref": "v0.1.0"
       },
       "keywords": [
