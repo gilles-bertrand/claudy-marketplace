@@ -1,0 +1,27 @@
+{
+  "name": "claudy-marketplace",
+  "owner": {
+    "name": "Triptyk",
+    "url": "https://github.com/triptyk"
+  },
+  "description": "Marketplace officiel des plugins Claude Code maintenus par Triptyk",
+  "plugins": [
+    {
+      "name": "claudy",
+      "description": "Boîte à outils Claude Code : commandes TPK-*, agents, skills et hooks de sécurité",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "triptyk/claudy-plugin",
+        "ref": "v0.1.0"
+      },
+      "keywords": [
+        "claude-code",
+        "tpk",
+        "workflow",
+        "scaffolding",
+        "security-hooks"
+      ]
+    }
+  ]
+}
