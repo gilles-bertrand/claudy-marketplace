@@ -9,19 +9,13 @@
     {
       "name": "claudy",
       "description": "Boîte à outils Claude Code : commandes TPK-*, agents, skills et hooks de sécurité",
-      "version": "0.1.0",
+      "version": "0.2.2",
       "source": {
         "source": "github",
         "repo": "gilles-bertrand/claudy-plugin",
-        "ref": "v0.1.0"
+        "ref": "v0.2.2"
       },
-      "keywords": [
-        "claude-code",
-        "tpk",
-        "workflow",
-        "scaffolding",
-        "security-hooks"
-      ]
+      "keywords": ["claude-code", "tpk", "workflow", "scaffolding", "security-hooks"]
     }
   ]
 }

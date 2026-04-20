@@ -30,7 +30,7 @@ Puis onglet **Discover**.
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [`claudy`](https://github.com/gilles-bertrand/claudy-plugin) | 0.1.0 | Boîte à outils complète (commandes TPK-*, agents, skills, hooks sécurité) |
+| [`claudy`](https://github.com/gilles-bertrand/claudy-plugin) | 0.2.2 | Boîte à outils complète (commandes TPK-*, agents, skills, hooks sécurité) |
 
 ## Mise à jour
 
