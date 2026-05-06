@@ -30,16 +30,18 @@ Puis onglet **Discover**.
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [`claudy`](https://github.com/gilles-bertrand/claudy-plugin) | 0.2.2 | Boîte à outils complète (commandes TPK-*, agents, skills, hooks sécurité) |
+| [`claudy`](https://github.com/gilles-bertrand/claudy-plugin) | 0.3.0 | Boîte à outils complète (commandes TPK-*, agents, skills, hooks sécurité) + commandes `/claudy-eject` et `/claudy-sync` pour matérialiser/évoluer les ressources par projet |
 
 ## Mise à jour
 
 Pour récupérer les nouvelles versions publiées dans ce marketplace :
 
-```bash
+```text
 /plugin marketplace update claudy-marketplace
 /plugin update claudy@claudy-marketplace
 ```
+
+Si vous avez utilisé `/claudy-eject` dans un projet pour matérialiser les ressources du plugin, lancez `/claudy-sync` après une mise à jour pour rapatrier les nouveautés sans toucher à vos personnalisations.
 
 ## Contribuer
 
